@@ -1,0 +1,10 @@
+C:\Users\voronchixin.2020\Desktop\Proxy-master\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Users\voronchixin.2020\Desktop\Proxy-master\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voronchixin.2020\Desktop\Proxy-master\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\voronchixin.2020\Desktop\Proxy-master\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\voronchixin.2020\Desktop\Proxy-master\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\voronchixin.2020\source\repos\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+C:\Users\voronchixin.2020\source\repos\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voronchixin.2020\source\repos\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\voronchixin.2020\source\repos\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Users\voronchixin.2020\source\repos\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
